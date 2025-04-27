@@ -4,6 +4,25 @@
 
 [中文版README](https://github.com/mazouri/AndroidTools/blob/master/%E4%B8%AD%E6%96%87%E7%89%88README.md)
 
+## Usage
+
+DroidOdu follows a simple, chainable API pattern:
+
+```java
+// Log utility example
+DroidOdu.log().d("This is a debug message");
+DroidOdu.log().tag("CustomTag").d("Tagged debug message");
+
+// String utility example
+boolean isEmpty = DroidOdu.string().isEmpty("test");
+
+// Network utility example
+boolean isWifiConnected = DroidOdu.network().isWifiConnected(context);
+
+// File utility example
+File file = DroidOdu.file().getFileByPath("/storage/emulated/0/Download/document.pdf");
+```
+
 ## About AndroidTools
 
 This library contains the most of tools that we use on Android development. Just add this to your module, you could simplify　your code, save your valuable time, and make developing app easier. Enjoy tools, happy coding!
