@@ -2,11 +2,6 @@
 
 [![](https://jitpack.io/v/dodufish/droidodu.svg)](https://jitpack.io/#dodufish/droidodu)
 
-## Overview
-
-DroidOdu is a comprehensive Android utility library designed to simplify Android development. It provides a wide range of utility functions that can be easily integrated into your projects, allowing you to focus on core business logic rather than writing repetitive utility code.
-
-## Features
 
 
 ### ApkTool
