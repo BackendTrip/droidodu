@@ -6,6 +6,14 @@
 
 DroidOdu is a comprehensive Android utility library designed to simplify Android development. It provides a wide range of utility functions that can be easily integrated into your projects, allowing you to focus on core business logic rather than writing repetitive utility code.
 
+## Features
+
+- **Modular Design**: Organized into focused categories for easy navigation
+- **Lightweight**: Minimal impact on your app's size
+- **Fully Documented**: Comprehensive documentation for all utility functions
+- **Easy Integration**: Simple setup with Gradle
+- **Actively Maintained**: Regular updates and improvements
+
 ## How to use AndroidTools
 
 ### 1.Add it in your root build.gradle at the end of repositories:
