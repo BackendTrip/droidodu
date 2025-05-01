@@ -1,12 +1,10 @@
-# AndroidTools
+# DroidOdu
 
-[![](https://jitpack.io/v/mazouri/AndroidTools.svg)](https://jitpack.io/#mazouri/AndroidTools)
+[![](https://jitpack.io/v/dodufish/droidodu.svg)](https://jitpack.io/#dodufish/droidodu)
 
-[中文版README](https://github.com/mazouri/AndroidTools/blob/master/%E4%B8%AD%E6%96%87%E7%89%88README.md)
+## Overview
 
-## About AndroidTools
-
-This library contains the most of tools that we use on Android development. Just add this to your module, you could simplify　your code, save your valuable time, and make developing app easier. Enjoy tools, happy coding!
+DroidOdu is a comprehensive Android utility library designed to simplify Android development. It provides a wide range of utility functions that can be easily integrated into your projects, allowing you to focus on core business logic rather than writing repetitive utility code.
 
 ## How to use AndroidTools
 
